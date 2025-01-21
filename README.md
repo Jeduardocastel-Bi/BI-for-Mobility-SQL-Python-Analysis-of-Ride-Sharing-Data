@@ -54,5 +54,5 @@ Data Visualization and Reporting.
 Hypothesis Testing using statistical methods.
 
 ## Link to the project (Python): https://github.com/Jeduardocastel/5.-Zuber-Ride-Sharing-Data-Analysis/blob/main/project_8.ipynb
-## Link to the project (SQL): https://github.com/Jeduardocastel/5.-Zuber-Ride-Sharing-Data-Analysis/blob/main/codigo_sql
+## Link to the project (SQL): [https://github.com/Jeduardocastel/5.-Zuber-Ride-Sharing-Data-Analysis/blob/main/codigo_sql]
 
