@@ -53,5 +53,7 @@ Data Cleaning and Preparation.
 Data Visualization and Reporting.
 Hypothesis Testing using statistical methods.
 
-## Link to the project (Python): 
-## Link to the project (SQL): 
+## Link to the project (Python): https://github.com/Jeduardocastel/5.-Zuber-Ride-Sharing-Data-Analysis/blob/main/project_8.ipynb![image](https://github.com/user-attachments/assets/9bd34e82-0515-4cd9-b2e4-e05816c533f6)
+
+## Link to the project (SQL): https://github.com/Jeduardocastel/5.-Zuber-Ride-Sharing-Data-Analysis/blob/main/codigo_sql.sql![image](https://github.com/user-attachments/assets/54653a7e-9351-4f3a-a389-b506ac726cc8)
+
