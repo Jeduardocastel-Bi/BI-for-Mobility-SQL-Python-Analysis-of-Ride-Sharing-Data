@@ -41,6 +41,19 @@ Identify neighborhoods and companies with the highest number of completed trips.
 Verify and remove outliers to ensure precise analysis.
 Test a statistical hypothesis to determine if there is a relationship between trip duration and weather conditions.
 
+## 📊 Analysis Results  
+
+### 🏆 Leading Taxi Companies  
+- **Chicago has 64 taxi companies**, but **Flash Cab dominates the market**, completing **19,558 rides**—the highest among all competitors.  
+
+### 📍 Most Popular Destination  
+- The **Loop in Chicago** is the **top drop-off location**, likely due to its status as a **major tourist and business hub** in the city.  
+
+### 🌦️ Impact of Weather on Rides  
+- Chicago's weather is known for **rapid changes and strong winds**.  
+- **Statistical tests (t-test and Levene's test) were conducted** to analyze the impact of weather on ride duration.  
+- **Results indicate that weather does not significantly affect taxi trips in Chicago**.
+  
 ## 🛠️ Tools and Technologies
 Programming Languages: Python, SQL
 Data Extraction: BeautifulSoup
